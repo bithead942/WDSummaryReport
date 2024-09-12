@@ -1,0 +1,13 @@
+C:\Users\Greg\documents\WDSummaryReport\WDSummaryReport\bin\Release\WDSummaryReport.exe.config
+C:\Users\Greg\documents\WDSummaryReport\WDSummaryReport\bin\Release\WDSummaryReport.exe
+C:\Users\Greg\documents\WDSummaryReport\WDSummaryReport\bin\Release\WDSummaryReport.pdb
+C:\Users\Greg\documents\WDSummaryReport\WDSummaryReport\bin\Release\WDSummaryReport.xml
+C:\Users\Greg\documents\WDSummaryReport\WDSummaryReport\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Greg\documents\WDSummaryReport\WDSummaryReport\obj\x86\Release\WDSummaryReport.frmSummaryReport.resources
+C:\Users\Greg\documents\WDSummaryReport\WDSummaryReport\obj\x86\Release\WDSummaryReport.Resources.resources
+C:\Users\Greg\documents\WDSummaryReport\WDSummaryReport\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Greg\documents\WDSummaryReport\WDSummaryReport\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Greg\documents\WDSummaryReport\WDSummaryReport\obj\x86\Release\WDSummaryReport.exe
+C:\Users\Greg\documents\WDSummaryReport\WDSummaryReport\obj\x86\Release\WDSummaryReport.xml
+C:\Users\Greg\documents\WDSummaryReport\WDSummaryReport\obj\x86\Release\WDSummaryReport.pdb
+C:\Users\Greg\documents\WDSummaryReport\WDSummaryReport\bin\Release\Watchdog1.ico

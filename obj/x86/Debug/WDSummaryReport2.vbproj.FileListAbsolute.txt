@@ -1,0 +1,11 @@
+C:\Users\Greg\Documents\WDSummaryReport2\WDSummaryReport2\bin\Debug\WDSummaryReport2.exe.config
+C:\Users\Greg\Documents\WDSummaryReport2\WDSummaryReport2\bin\Debug\Watchdog1.ico
+C:\Users\Greg\Documents\WDSummaryReport2\WDSummaryReport2\bin\Debug\WDSummaryReport2.exe
+C:\Users\Greg\Documents\WDSummaryReport2\WDSummaryReport2\bin\Debug\WDSummaryReport2.pdb
+C:\Users\Greg\Documents\WDSummaryReport2\WDSummaryReport2\bin\Debug\WDSummaryReport2.xml
+C:\Users\Greg\Documents\WDSummaryReport2\WDSummaryReport2\obj\x86\Debug\WDSummaryReport2.frmSummaryReport.resources
+C:\Users\Greg\Documents\WDSummaryReport2\WDSummaryReport2\obj\x86\Debug\WDSummaryReport2.Resources.resources
+C:\Users\Greg\Documents\WDSummaryReport2\WDSummaryReport2\obj\x86\Debug\WDSummaryReport2.vbproj.GenerateResource.Cache
+C:\Users\Greg\Documents\WDSummaryReport2\WDSummaryReport2\obj\x86\Debug\WDSummaryReport2.exe
+C:\Users\Greg\Documents\WDSummaryReport2\WDSummaryReport2\obj\x86\Debug\WDSummaryReport2.xml
+C:\Users\Greg\Documents\WDSummaryReport2\WDSummaryReport2\obj\x86\Debug\WDSummaryReport2.pdb
